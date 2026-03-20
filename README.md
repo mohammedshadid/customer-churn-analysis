@@ -28,6 +28,28 @@ It is built using Machine Learning and deployed using Streamlit.
 
 ---
 
+## How It Works
+- User enters customer details
+- Data is preprocessed
+- Trained ML model predicts churn probability
+- Output shows whether customer will churn or not
+
+--
+
+## Model Details
+- Algorithm: Random Forest / Logistic Regression
+- Dataset: Telco Customer Churn Dataset
+- Features used: tenure, monthly charges, contract type, etc.
+
+—
+
+## Sample Prediction
+Example:
+- Input: Tenure = 2 months, Monthly Charges = 80
+- Output: High chance of churn
+
+---
+
 ## Live App
 https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
 ## App Preview
