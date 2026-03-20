@@ -25,7 +25,7 @@ It is built using Machine Learning and deployed using Streamlit.
 
 
 
-![Dashboard](dashboard.png)
+pasteeeeee
 
 
 
