@@ -1,5 +1,9 @@
 # Customer Churn Prediction App
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![ML](https://img.shields.io/badge/Machine%20Learning-Model-green)
+
 ## Overview
 This project predicts whether a customer will churn based on their service details.
 
