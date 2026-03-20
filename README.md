@@ -1,4 +1,4 @@
-# Customer Churn Prediction App
+# Customer Churn Analysis & Prediction App
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
@@ -11,8 +11,38 @@ It is built using Machine Learning and deployed using Streamlit.
 
 ---
 
+## This Project Includes:
+
+- Power BI Dashboard for business insights
+
+- Machine Learning model for prediction
+
+- Streamlit app for deployment
+
+---
+
+## Power BI Dashboard
+
+
+
+![Dashboard](dashboard.png)
+
+
+
+### Key Insights:
+
+- Customers with **month-to-month contracts** have highest churn
+
+- Higher **monthly charges** lead to more churn
+
+- Customers with **low tenure** are more likely to churn
+
+---
+
 ## Tech Stack
 - Python
+- Power BI
+- SQL
 - Pandas
 - NumPy
 - Scikit-learn
