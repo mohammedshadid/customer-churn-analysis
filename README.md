@@ -30,7 +30,8 @@ It is built using Machine Learning and deployed using Streamlit.
 
 ## Live App
 https://customer-churn-analysis-jo8bhwxbkrcapsv54lgtsr.streamlit.app
-
+## App Preview
+![App Screenshot](screenshot.png)
 ---
 
 ## Project Structure
